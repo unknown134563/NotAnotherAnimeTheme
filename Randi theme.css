@@ -1,9 +1,9 @@
 /**
-* @name NotAnotherAnimeTheme
-* @author puckzxz#2080
-* @version 3.2
-* @description An easily customizable and automatically updating theme
-* @invite FdZhbjY
+* @name Randi
+* @author Randi user
+* @version Randi
+* @description Randi theme for Vencord
+* @invite Randi
 * @source https://github.com/puckzxz/NotAnotherAnimeTheme
 * @updateUrl https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeTheme.theme.css
 */
@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://i.imgur.com/j1Z6HVc.jpg);
+  --theme-background-image: url(https://i.pinimg.com/originals/e3/da/57/e3da5726f5c80d38d28716d7389b6c03.gif);
 
   /*
     Main Theme Color
@@ -36,12 +36,12 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://i.pinimg.com/236x/61/f5/cc/61f5ccad28bad6756d7f05daf98a2b1a.jpg);
 
   /*
     Change your friends icon image position
   */
-  --home-icon-image-position: center center;
+  --home-icon-image-position: fil;
 
   /*
     Change your friends icon image zoom
@@ -96,14 +96,14 @@
   /*
     Small User Popout
   */
-  --small-user-popout-background-image: var(--theme-background-image);
+  --small-user-popout-background-image: var(https://i.pinimg.com/originals/4b/8b/51/4b8b5130b30706fe1ed05149009c4bd7.gif);
   --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --small-user-popout-background-image-position: center;
 
   /*
     Big User Popout
   */
-  --big-user-popout-background-image: var(--theme-background-image);
+  --big-user-popout-background-image: var(https://i.pinimg.com/originals/4b/8b/51/4b8b5130b30706fe1ed05149009c4bd7.gif);
   --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --big-user-popout-background-image-position: center;
 
